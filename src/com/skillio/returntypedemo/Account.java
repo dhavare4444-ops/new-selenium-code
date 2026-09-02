@@ -76,4 +76,23 @@ public class Account
 		super();//call to contructor
 	}
 	*/
+	
+	/*public class Account
+	{
+		int accno;
+		String name;
+		float balance;
+		String ifsc;
+		
+		public Account()
+		{
+			accno=1234;// reinitialization so it will print
+			//accno=1234; if it is not there so block value will print
+		}
+		
+		{
+			//accno=4567;
+			name="kalpna";
+		}
+		*/
 }
