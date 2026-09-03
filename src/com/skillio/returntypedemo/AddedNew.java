@@ -1,5 +1,7 @@
 package com.skillio.returntypedemo;
 
+import java.lang.invoke.MethodHandles.Lookup.ClassOption;
+
 public class AddedNew {
 
 	public AddedNew() {
@@ -8,8 +10,14 @@ public class AddedNew {
 
 	public static void main(String[] args) {
 	
-// Added new
+// Added name = new ();
+		
+		System.out.print("New Changes added");
 
 	}
+	
+	// New Changes added
+	
+	
 
 }
